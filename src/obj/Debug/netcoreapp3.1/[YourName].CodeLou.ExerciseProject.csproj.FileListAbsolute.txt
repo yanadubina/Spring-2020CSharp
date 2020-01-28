@@ -1,0 +1,11 @@
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\obj\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.csprojAssemblyReference.cache
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\obj\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.AssemblyInfoInputs.cache
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\obj\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.AssemblyInfo.cs
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\bin\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.exe
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\bin\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.deps.json
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\bin\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.runtimeconfig.json
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\bin\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.runtimeconfig.dev.json
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\bin\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.dll
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\bin\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.pdb
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\obj\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.dll
+C:\Users\Yana\Desktop\Coding projects\CShapr Prooject1\src\obj\Debug\netcoreapp3.1\[YourName].CodeLou.ExerciseProject.pdb
