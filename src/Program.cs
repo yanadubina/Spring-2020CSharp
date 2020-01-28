@@ -5,29 +5,27 @@ namespace YourName.CodeLou.ExerciseProject
 {
     class Program
     {
-
-
-
         static void Main(string[] args)
         {
 
-          //  bool getStudentInfo = true;
-          //  while (getStudentInfo)
-          //  {
-          //     Console.WriteLine($"Enter more info? Y/N");
-          //      getStudentInfo = Console.ReadLine() == "Y";
-          //   }
-        string continueRunning = "Y";
-        while (continueRunning == "Y")
-        {
-            InputStudent();
-            Console.WriteLine("Do you want to enter another student?(Y/N)");
-            continueRunning = Console.ReadLine();
-        }
-        
+            //  bool getStudentInfo = true;
+            //  while (getStudentInfo)
+            //  {
+            //     Console.WriteLine($"Enter more info? Y/N");
+            //      getStudentInfo = Console.ReadLine() == "Y";
+            //   }
+            string continueRunning = "Y";
+            while (continueRunning == "Y")
+            {
+                InputStudent();
+                Console.WriteLine("Do you want to enter another student?(Y/N)");
+                continueRunning = Console.ReadLine();
+            }
+
         }
         static void InputStudent()
-        {   Console.WriteLine("Enter Student Id");
+        {
+            Console.WriteLine("Enter Student Id");
             var studentId = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter First Name");
             var studentFirstName = Console.ReadLine();
